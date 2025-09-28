@@ -1,13 +1,28 @@
+=== Events ===
+
 - When website loaded... - ID: 0
 - When <button> pressed... - ID: 1
 - When <key> pressed... - ID: 2
 - When mouse enters <object> ... - ID: 3
-- Redirect to <string> - ID: 4
 - When mouse leaves <object> ... - ID: 5
+- Define function <function> - ID: 6
+- When <donation> bought... - ID: 7
+- When <input> submitted... - ID: 8
+- When message received... - ID: 9
+- When <object> changed... - ID: 10
+
+=== Actions ===
+
+- Log <any> - ID: 0
+- Warn <any> - ID: 1
+- Error <any> - ID: 2
+- Wait <number> seconds - ID: 3
+- Redirect to <string> - ID: 4
+- Play audio <id> → <variable?> - ID: 5
 - Stop all audio - ID: 7
 - Make <object> invisible - ID: 8
-- Make <object visible - ID: 9
-- When <object> changed... - ID: 10
+- Make <object> visible - ID: 9
+- Set <object> text to <string> - ID: 10
 - Set <variable> to <any> - ID: 11
 - Increase <variable> by <number> - ID: 12
 - Decrease <variable> by <number> - ID: 13
@@ -16,12 +31,13 @@
 - Round <variable> - ID: 16
 - Floor <variable> - ID: 17
 - If <any> is equal to <any> - ID: 18
+- If <any> is not equal to <any> - ID: 19
 - If <any> is greater than <any> - ID: 20
 - If <any> is lower than <any> - ID: 21
 - Repeat <number> times - ID: 22
 - Repeat forever - ID: 23
 - Break - ID: 24
-- end - ID: 25 (this is only present at the end of a loop or an if statement. any actions before this and after the If/Loop is nested)
+- end - ID: 25
 - Play looped audio <id> → <variable?> - ID: 26
 - Set <var> to random <n> - <n> - ID: 27
 - Get text from <input> → <variable> - ID: 30
@@ -30,9 +46,16 @@
 - Broadcast <message> across site - ID: 33
 - If <string> contains <string> - ID: 37
 - If <string> doesn't contain <string> - ID: 38
-- Get <property> of (parent) → <variable> - ID: 39
+- Get <property> of <object> → <variable> - ID: 39
 - Raise <variable> to the power of <number> - ID: 40
 - <variable> modulo <number> - ID: 41
+- Sub <variable> <start> - <end> - ID: 42
+- Replace <string> in <variable> by <string> - ID: 43
+- If <variable> AND <variable> - ID: 44
+- If <variable> OR <variable> - ID: 45
+- If <variable> NOR <variable> - ID: 46
+- If <variable> XOR <variable> - ID: 47
+- Get length of <string> → <variable> - ID: 48
 - Duplicate <object> → <variable> - ID: 49
 - Delete <object> - ID: 50
 - Get local username → <variable> - ID: 51
@@ -41,21 +64,25 @@
 - Create table <table> - ID: 54
 - Set entry <entry> of <table> to <any> - ID: 55
 - Get entry <entry> of <table> → <variable> - ID: 56
+- Split <string> <separator> → <table> - ID: 57
 - Parent <object> under <object> - ID: 58
 - Get length of <array> → <variable> - ID: 59
 - Run function in background <function> <tuple> - ID: 63
 - Set entry <entry> of <table> to <object> - ID: 66
 - Get query string parameter <string> → <variable> - ID: 67
 - Get unix timestamp → <variable> - ID: 68
+- Lower <string> → <variable> - ID: 69
+- Upper <string> → <variable> - ID: 70
 - Format current date/time <format> → <variable> - ID: 71
 - Format from unix <number> <format> → <variable> - ID: 72
-- Set volume of <variable> to 0.5 - ID: 73
+- Set volume of <variable> to <number> - ID: 73
 - Stop audio <variable> - ID: 74
 - Pause audio <variable> - ID: 75
 - Resume audio <variable> - ID: 76
-- Set speed of <variable> to 2 - ID: 77
+- Set speed of <variable> to <number> - ID: 77
 - Ceil <variable> - ID: 78
 - If left mouse button down - ID: 79
+- If middle mouse button down - ID: 80
 - If right mouse button down - ID: 81
 - If <key> down - ID: 82
 - Get tick → <variable> - ID: 83
@@ -68,25 +95,63 @@
 - Remove entry at position <number?> of <array> - ID: 91
 - If <variable> exists - ID: 92
 - If <variable> doesn't exist - ID: 93
+- Set <property> of <variable> to <any> - ID: 94
+- Get <property> of <variable> → <variable> - ID: 95
 - Delete <variable> - ID: 96
 - Get parent of <object> → <variable> - ID: 97
 - Find ancestor named <string> in <object> → <variable> - ID: 98
 - Find child named <string> in <object> → <variable> - ID: 99
+- Find descendant named <string> in <object> → <variable> - ID: 100
 - Get children of <object> → <table> - ID: 101
 - Get descendants of <object> → <table> - ID: 102
 - If <object> is ancestor of <object> - ID: 103
 - If <object> is child of <object> - ID: 104
 - If <object> is descendant of <object> - ID: 105
+- Set <object> image to <id> - ID: 106
 - Set <object> image to avatar of <userid> <resolution?> - ID: 107
 - If dark theme enabled - ID: 108
+- Concatenate <string> with <string> → <variable> - ID: 109
 - Join <array> using <string> → <variable> - ID: 110
 - else - ID: 112
 - Iterate through <table> ({l!index},{l!value}) - ID: 113
 - Run math function <function> <tuple> → <variable> - ID: 114
 - Return <any> - ID: 115
+- Get server unix timestamp → <variable> - ID: 116
 - Get URL → <variable> - ID: 117
 - Get timezone → <variable> - ID: 118
 - Convert <hex> to RGB → <variable> - ID: 119
 - Convert <hex> to HSV → <variable> - ID: 120
 - Convert <RGB> to hex → <variable> - ID: 121
-- Comment... - ID: 124
+- Convert <HSV> to hex → <variable> - ID: 122
+- Lerp <hex> to <hex> by <alpha> → <variable> - ID: 123
+- <comment> - ID: 124
+
+=== ID collisions (IDs that appear as both event and action) ===
+
+- ID 0:
+    event -> When website loaded...
+    action -> Log <any>
+- ID 1:
+    event -> When <button> pressed...
+    action -> Warn <any>
+- ID 2:
+    event -> When <key> pressed...
+    action -> Error <any>
+- ID 3:
+    event -> When mouse enters <object> ...
+    action -> Wait <number> seconds
+- ID 5:
+    event -> When mouse leaves <object> ...
+    action -> Play audio <id> → <variable?>
+- ID 7:
+    event -> When <donation> bought...
+    action -> Stop all audio
+- ID 8:
+    event -> When <input> submitted...
+    action -> Make <object> invisible
+- ID 9:
+    event -> When message received...
+    action -> Make <object> visible
+- ID 10:
+    event -> When <object> changed...
+    action -> Set <object> text to <string>
