@@ -1,0 +1,3 @@
+site,creator,description
+listen.rbx,TheSecretLamb,listen is a music platform where you can listen to a library of top quality songs on catweb.
+articles,rbx,TheSecretLamb,articles is a news site that has the latest and greatest news, it goes by the phrase "CatWeb's trustworthy news place"
