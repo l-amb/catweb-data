@@ -8,3 +8,9 @@ searchgo.rbx,POPAPICI,searchGo is CatWeb's most popular user made browser, it ha
 kyna.rbx,POPAPICI,Kyna is a CatWeb ai made by the enli team.
 enli.rbx,POPAPICI,enli is an orginazation on CatWeb comprised of @POPAPICI & @MR_L4ND3N
 swurf.rbx,POPAPICI,Made by the enli team it is a unique search browser with "Glance" displayed at the bottom.
+catweb.rbx,CcXxiiHuman_C4t,The CatWeb search browser, made by the games creator and has every single site on it.
+games.rbx,StudioCompile,The most popular gaming website with Tetris, Snake, TicTacToe and Pong.
+asset.rbx,CcXxiiHuman_C4t,An image viewing site has zoom, image scale and image colouring with a nice ui design.
+rfnaf.rbx,Claynns_Vicky,A FNAF remake on CatWeb where you play as a night guard.
+nexora.rbx,Claynns_Vicky,Nexora is a site offering a variety of 3D graphics APIs as well as free JSONs to easily use and create your own graphic content.
+piano.rbx,Claynns_Vicky,A simple piano to use on CatWeb, with a few extra options!
