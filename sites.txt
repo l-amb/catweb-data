@@ -15,3 +15,6 @@ rfnaf.rbx,Claynns_Vicky,A FNAF remake on CatWeb where you play as a night guard.
 nexora.rbx,Claynns_Vicky,Nexora is a site offering a variety of 3D graphics APIs as well as free JSONs to easily use and create your own graphic content.
 piano.rbx,Claynns_Vicky,A simple piano to use on CatWeb, with a few extra options!
 verto.rbx,0_080463,Verto provides services and tools to catweb users.
+prrl,WizWazWuz,A simple search engine with a purple background and time time displayed above the search bar.
+7he,harryedge7s3a,A website with links to many other websites including verto, webtv and more.
+webtv,CoolGamer12988,A catweb tv show and movie streaming service.
