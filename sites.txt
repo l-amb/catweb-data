@@ -1,3 +1,10 @@
 site,creator,description
 listen.rbx,TheSecretLamb,listen is a music platform where you can listen to a library of top quality songs on catweb.
-articles,rbx,TheSecretLamb,articles is a news site that has the latest and greatest news, it goes by the phrase "CatWeb's trustworthy news place"
+articles.rbx,TheSecretLamb,articles is a news site that has the latest and greatest news, it goes by the phrase "CatWeb's trustworthy news place"
+walgreens.rbx,idleoofy,A remake of the real walgreens but with roblox themed items and more.
+z4.rbx,e1ectricdog,The most popular site on CatWeb. It is a domain selling site that sell loads of domains. "Oh oh zee four."
+claimaspot.rbx,SublevelAlternate,A site with 50 spots that any user can put their site on.
+searchgo.rbx,POPAPICI,searchGo is CatWeb's most popular user made browser, it has a sleek design and an in built ai.
+kyna.rbx,POPAPICI,Kyna is a CatWeb ai made by the enli team.
+enli.rbx,POPAPICI,enli is an orginazation on CatWeb comprised of @POPAPICI & @MR_L4ND3N
+swurf.rbx,POPAPICI,Made by the enli team it is a unique search browser with "Glance" displayed at the bottom.
