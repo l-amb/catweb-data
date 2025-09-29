@@ -27,3 +27,7 @@ marker.rbx,MR_L4ND3N,A freeform drawing sites with colour, shapes and more.
 loopix.rbx,itsgreenyYT,A search browser similar to seaqrch go with a colourful background, a calculator and music.
 dotab.rbx,aidenplayszoz,A hub with 100s of catweb sites but is now discontinued.
 scl.rbx,newmedal,A roblox recreation where the games are other users sites, It also has the roblox creator hub.
+neal.rbx,NoobcyHarlaw,A recreation of the real neal.fun, currently with the password game, absurd trolley problems and spend bill gates' money.
+pizzafy.rbx.NoobcyHarlaw,A recreation the real pizzafy website.
+speedtest.rbx,NoobyHarlaw,An internet speed test inside of catweb.
+ask.rbx.NoobcyHarlaw,A sleek simple and modern browser.
