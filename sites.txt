@@ -31,3 +31,13 @@ neal.rbx,NoobcyHarlaw,A recreation of the real neal.fun, currently with the pass
 pizzafy.rbx.NoobcyHarlaw,A recreation the real pizzafy website.
 speedtest.rbx,NoobyHarlaw,An internet speed test inside of catweb.
 ask.rbx.NoobcyHarlaw,A sleek simple and modern browser.
+6.rbx,MbBro65,A roblox like homescreen with a custom cloud background and red theming
+wiki.rbx,koliemini,A catweb information site with articles about players, sites and catweb features.
+bdb.rbx,DougTest22,A low quality music playing app with a gray colour theme.
+youtube.rbx,StudioCompile,A website with a curated list of videos.
+yt.rbx,StudioCompile,A quick link to youtube.rbx
+arts.rbx,TheSecretLamb,A quick link to articles.rbx
+seekup.rbx,koliemini,A sleek and modern designed browser with a dark gray theme.
+collabora.rbx,arythmitc4l,An alternative website editor for CatWeb with multiple user support.
+r.bx,StudioCompile,A rick roll video with audio.
+bloxity.rbx,begantistankas2,An online store for your Stylish Needs and Wants.
