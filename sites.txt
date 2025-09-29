@@ -40,3 +40,4 @@ seekup.rbx,koliemini,A sleek and modern designed browser with a dark gray theme.
 collabora.rbx,arythmitc4l,An alternative website editor for CatWeb with multiple user support.
 r.bx,StudioCompile,A rick roll video with audio.
 bloxity.rbx,begantistankas2,An online store for your Stylish Needs and Wants.
+realdarkweb.rbx,ineon321,A Website Full Of Mysteries.
