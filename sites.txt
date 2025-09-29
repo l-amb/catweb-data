@@ -33,7 +33,6 @@ speedtest.rbx,NoobyHarlaw,An internet speed test inside of catweb.
 ask.rbx.NoobcyHarlaw,A sleek simple and modern browser.
 6.rbx,MbBro65,A roblox like homescreen with a custom cloud background and red theming
 wiki.rbx,koliemini,A catweb information site with articles about players, sites and catweb features.
-bdb.rbx,DougTest22,A low quality music playing app with a gray colour theme.
 youtube.rbx,StudioCompile,A website with a curated list of videos.
 yt.rbx,StudioCompile,A quick link to youtube.rbx
 arts.rbx,TheSecretLamb,A quick link to articles.rbx
