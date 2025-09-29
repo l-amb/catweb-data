@@ -40,3 +40,6 @@ seekup.rbx,koliemini,A sleek and modern designed browser with a dark gray theme.
 collabora.rbx,arythmitc4l,An alternative website editor for CatWeb with multiple user support.
 r.bx,StudioCompile,A rick roll video with audio.
 bloxity.rbx,begantistankas2,An online store for your Stylish Needs and Wants.
+retrovibe.rbx,19ua6,A recreation of 2018 roblox.
+sitedevelopers.rbx,Site_Developers,A recreation of the current roblox.
+timedtime.rbx,Biel15blox,A site with a time counter displaying how long you have spent on the site, the time counter moves/changes to the musics beat.
