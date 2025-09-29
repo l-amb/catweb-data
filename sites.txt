@@ -43,3 +43,6 @@ bloxity.rbx,begantistankas2,An online store for your Stylish Needs and Wants.
 retrovibe.rbx,19ua6,A recreation of 2018 roblox.
 sitedevelopers.rbx,Site_Developers,A recreation of the current roblox.
 timedtime.rbx,Biel15blox,A site with a time counter displaying how long you have spent on the site, the time counter moves/changes to the musics beat.
+spot.rbx,jayingeehere,A site titled spot with a 'We develop sites!' text in the middle and a black to gray gradient.
+terracraft.rbx,Sr_KiBi,A 2 dimensional minecraft recreation based on Java edition. Currently only with singleplayer.
+coolors.rbx,Sr_KiBi,A recreation of the real coolors website where you pick out a colour pallete.
