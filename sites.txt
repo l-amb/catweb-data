@@ -48,3 +48,15 @@ spot.rbx,jayingeehere,A site titled spot with a 'We develop sites!' text in the 
 terracraft.rbx,Sr_KiBi,A 2 dimensional minecraft recreation based on Java edition. Currently only with singleplayer.
 coolors.rbx,Sr_KiBi,A recreation of the real coolors website where you pick out a colour pallete.
 loopixtranslate.rbx,itsgreenyYT,A language translating site that can currently translate english into german and spanish.
+hdfc.rbx,DaMechaStudios,Enhance you catweb site with tools.
+yourlocalboombox.rbx.PatLikesBacons,Listen to a vast selection of songs autoplayed at a random order.
+videomeower.rbx,Biel15blox,VideoMeower is a fun place where you can watch and upload your own videos.
+halloffame.rbx,PatLikesBacons,The hall of fame, every famous catweb user.
+rngzero.rbx,TheSecretLamb,A fun but simple RNG, can you get the highest score?
+roify.rbx,e1ectricdog,Ro-ify is your all in one music streaming service for CatWeb.
+spaghet.rbx,Spaghetti_InSpace,CatWeb's premier ToS-friendly gambling website.
+windoge81.rbx,davizinhofoxye10,Windows 8.1 recreation with doges.
+myroanilist.rbx,ImJustThatOnePlayer,Animations anad Manga database.
+propaint.rbx,CheeseStorm111,Paint with ease.
+veloxos.rbx,TheSecretLamb,CatWeb's best looking operating system.
+winxp.rbx,literally_bob,Windows xp recreation that is currently unfinished.
